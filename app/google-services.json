@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "952920311973",
+    "firebase_url": "https://captivape-reviewer.firebaseio.com",
+    "project_id": "captivape-reviewer",
+    "storage_bucket": "captivape-reviewer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952920311973:android:d6ca0096fd92ea5d",
+        "android_client_info": {
+          "package_name": "com.justinreda.firebasetvauthenticationexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952920311973-lcleugfnfupoi9dtcocqb2s7n3n6r7jo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGBcdlCwH0yv0K6ayilD8KS5L8ppVS-dw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
